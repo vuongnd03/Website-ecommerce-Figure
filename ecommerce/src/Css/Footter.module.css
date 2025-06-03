@@ -1,0 +1,104 @@
+.footter {
+  background-color: #f5f5f5;
+  padding: 30px 40px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+  min-width: 220px;
+  max-width: 300px;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.column a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  margin-bottom: 6px;
+}
+
+.column a:hover {
+  text-decoration: underline;
+}
+
+.socials {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.socials img {
+  width: 24px;
+  height: 24px;
+}
+
+.newsletter {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.newsletter input {
+  flex: 1;
+  padding: 6px;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+}
+
+.newsletter button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.payments img {
+  width: 45px;
+  height: 40px;
+  margin-right: 5px;
+  margin-top: 8px;
+}
+
+.certification {
+  margin-top: 12px;
+  width: 120px;
+}
+
+.copyRight {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 13px;
+  color: #666;
+}
+.socials {
+  display: flex;
+  gap: 16px; /* khoảng cách giữa các icon */
+  align-items: center;
+}
+
+.socialLink img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  border-radius: 50%; /* bo tròn icon nếu thích */
+}
+
+.socialLink:hover img {
+  transform: scale(1.2); /* phóng to nhẹ khi hover */
+  filter: brightness(1.2) drop-shadow(0 0 5px rgba(0, 0, 0, 0.2)); /* thêm sáng và bóng */
+  cursor: pointer;
+}

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #4CAF50;
+        }
+
+        p {
+            font-size: 16px;
+            color: #333;
+        }
+
+        .footer {
+            font-size: 12px;
+            color: #999;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🎉 Thanh toán thành công!</h2>
+        <p>Xin chào <strong>{CustomerName}</strong>,</p>
+        <p>Cảm ơn bạn đã đặt hàng tại <strong>Toy Store</strong>.</p>
+        <p>📦 Mã đơn hàng: <strong>{OrderId}</strong></p>
+        <p>Tổng tiền: <strong>{TotalAmount} VND</strong></p>
+        <p>Chúng tôi sẽ gửi thông báo tiếp theo khi đơn hàng được giao.</p>
+        <div class="footer">Figure shop - Cảm ơn bạn đã mua sắm!</div>
+    </div>
+</body>
+</html>

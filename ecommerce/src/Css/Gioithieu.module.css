@@ -1,0 +1,18 @@
+.tieude{
+    justify-items: center;
+}
+.tieude h1{
+    font-size: 30px;
+    font-weight: lighter;
+}
+.conttent{
+    margin: 30px;
+}
+.conttent h2{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.telephone{
+    display: flex;
+    padding: 20px;
+}

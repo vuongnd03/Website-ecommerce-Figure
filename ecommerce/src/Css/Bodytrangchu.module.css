@@ -1,0 +1,63 @@
+.mySwiper {
+    width: 100%;
+    height: 400px;
+}
+
+
+.bodytrangchu {
+    width: 100%;
+    height: 400px;
+    background-color: #734242;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* thêm align-items để căn giữa chiều dọc */
+}
+
+.contentContainer {
+    display: flex;
+    width: 80%;
+    max-width: 1200px;
+    height: 100%; /* để con chiếm đủ chiều cao cha */
+}
+
+.textContent {
+    color: black;
+    flex: 1; /* 50% */
+    padding: 20px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    display: flex; /* thêm */
+    flex-direction: column; /* xếp chữ theo chiều dọc */
+    justify-content: center; /* căn giữa theo trục dọc */
+    align-items: center; /* căn giữa theo trục ngang */
+    text-align: center; /* căn giữa text */
+}
+
+.textContent h1 {
+    font-size: 30px;
+    margin: 0; /* bỏ margin dư */
+    font-weight: bold;
+    color: black;
+}
+
+.textContent h2{
+    font-size: 15px;
+    color: black;
+}
+.textContent h3{
+    color: black;
+     text-decoration: line-through;
+}
+.imageContainer {
+    flex: 1; /* 50% */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.imageContainer img {
+    max-width: 100%; /* fix lỗi bạn để "auto" */
+    max-height: 100%;
+    object-fit: contain;
+}

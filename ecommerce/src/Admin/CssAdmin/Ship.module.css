@@ -1,0 +1,258 @@
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.message {
+  background-color: #d4edda;
+  color: #155724;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 1px solid #c3e6cb;
+}
+
+.filterSection {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.filterSection label {
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+.filterSection select {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.refreshButton {
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.refreshButton:hover {
+  background-color: #5a6268;
+}
+
+.orderList {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.orderList table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.orderList th,
+.orderList td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.orderList th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.addressColumn {
+  max-width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.status {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.pending {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.confirmed {
+  background-color: #cce5ff;
+  color: #004085;
+}
+
+.shipping {
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+
+.delivered {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.cancelled {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.actions {
+  display: flex;
+  gap: 5px;
+}
+
+.shippingButton,
+.confirmedButton,
+.deliveredButton,
+.cancelButton {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.confirmedButton {
+  background-color: #007bff;
+  color: white;
+}
+
+.shippingButton {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.deliveredButton {
+  background-color: #28a745;
+  color: white;
+}
+
+.cancelButton {
+  background-color: #dc3545;
+  color: white;
+}
+
+.emptyMessage {
+  text-align: center;
+  padding: 30px;
+  color: #6c757d;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px;
+  color: #6c757d;
+  font-style: italic;
+}
+
+button:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+.popup {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 2px solid #ccc;
+  padding: 20px;
+  z-index: 1000;
+  width: 300px;
+  box-shadow: 0px 0px 10px gray;
+  border-radius: 10px;
+}
+
+.popupContent {
+  position: relative;
+}
+
+.closeButton {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+  color: red;
+}
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  max-height: 80%;
+  overflow-y: auto;
+  position: relative;
+}
+
+.closeButton {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.detailTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.detailTable th, .detailTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.orderIdButton {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+}

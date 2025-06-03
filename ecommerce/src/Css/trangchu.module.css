@@ -1,0 +1,219 @@
+.trangchu nav {
+    background-color: #FFFFFF; /* Màu nền của menu */
+    padding: 0px ;
+}
+
+.trangchu nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 20px; /* Khoảng cách giữa các mục */
+}
+.trangchu nav ul img {
+    height: 60px; /* chiều cao ảnh, bạn có thể chỉnh theo ý */
+    width: auto;
+    object-fit: contain;
+}
+.trangchu nav ul li {
+    position: relative;
+}
+
+.trangchu nav ul li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.trangchu nav ul li a:hover {
+    background-color: #c5d9ee;
+}
+
+.trangchu nav ul div {
+    margin: 0 10px;
+}
+
+
+  .username {
+  max-width: 150px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 1024px) {
+    .trangchu nav ul {
+      gap: 15px;
+    }
+  
+    .trangchu nav ul li a {
+      font-size: 18px;
+      padding: 8px 12px;
+    }
+  
+    .trangchu nav ul div input[type="text"] {
+      width: 180px;
+    }
+  }
+  
+  .logo {
+  height: 50px;
+  margin-right: 20px;
+}
+
+.searchWrapper {
+  position: relative;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.searchInput {
+  padding:  0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 250px;
+  font-size: 14px;
+}
+
+.searchBtn {
+  background-color: white;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  padding: 0px;
+  cursor: pointer;
+}
+  .searchWrapper input[type="text"] {
+    padding: 6px 10px;
+    /*border: none;*/
+    outline: none;
+    border-radius: 50px;
+   
+  }
+  .searchWrapper button {
+    background: none;
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  .searchWrapper button img {
+    width: 30px !important;
+    height: auto !important;
+  
+  }
+
+
+.searchWrapper {
+  position: relative;
+  margin-right: 20px;
+}
+
+.searchInput {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 220px;
+  font-size: 14px;
+}
+
+.searchBtn {
+  background-color: white;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  z-index: 999;
+  max-height: 300px;
+  overflow-y: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.dropdownItem {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.dropdownItem:hover {
+  background-color: #f9f9f9;
+}
+
+.productImage {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 12px;
+}
+
+.productInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.productName {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.price {
+  color: red;
+  font-size: 13px;
+}
+.fullname {
+  border: none;
+  outline: none; /* Nếu có focus viền */
+  background: none; /* Nếu có màu nền */
+}
+
+.logoutBtn {
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background: none; /* Hoặc để màu theo ý */
+  cursor: pointer;  /* Tuỳ chọn: thay đổi con trỏ chuột */
+}
+.logoutBtn:hover{
+  transform: scale(1.2);
+}
+
+  @media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .left {
+    display: none;
+  }
+
+  .right {
+    padding: 20px;
+  }
+}

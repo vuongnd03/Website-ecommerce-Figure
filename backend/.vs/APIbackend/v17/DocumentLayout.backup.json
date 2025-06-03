@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\backend\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\invoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\invoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\controllers\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:controllers\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\templates\\successemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:templates\\successemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\templates\\failemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:templates\\failemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\chatai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\chatai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\models\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:models\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\updatepaymentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\updatepaymentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\models\\chataicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:models\\chataicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\apibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:apibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\data\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:data\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\apibackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:apibackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|c:\\users\\admin\\downloads\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7C51C54-4BD6-43F3-8D5E-8B3E136806D9}|APIbackend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Payment.cs",
+              "RelativeDocumentMoniker": "Data\\Payment.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Payment.cs",
+              "RelativeToolTip": "Data\\Payment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:18:39.101Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoucherController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "Controllers\\VoucherController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:01:45.241Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:25:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Data\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\IEmailService.cs",
+              "RelativeToolTip": "Data\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:42:40.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Forgotpassword.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\Forgotpassword.cs",
+              "RelativeDocumentMoniker": "Controllers\\Forgotpassword.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\Forgotpassword.cs",
+              "RelativeToolTip": "Controllers\\Forgotpassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:47:01.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T02:16:57.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\VerifyCodeRequest.cs",
+              "RelativeDocumentMoniker": "Data\\VerifyCodeRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\VerifyCodeRequest.cs",
+              "RelativeToolTip": "Data\\VerifyCodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:44:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:30:38.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Data\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\EmailSettings.cs",
+              "RelativeToolTip": "Data\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:45:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\EmailService.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\EmailService.cs",
+              "RelativeToolTip": "Controllers\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:08:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\EmailService.cs",
+              "RelativeDocumentMoniker": "Data\\EmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\EmailService.cs",
+              "RelativeToolTip": "Data\\EmailService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:45:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:19:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\LoginUser.cs",
+              "RelativeToolTip": "Controllers\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:14:43.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\EmailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\EmailsController.cs",
+              "RelativeToolTip": "Controllers\\EmailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:21:56.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\InvoiceGenerator.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceGenerator.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\InvoiceGenerator.cs",
+              "RelativeToolTip": "Controllers\\InvoiceGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:10:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\LoginAdmin.cs",
+              "RelativeToolTip": "Controllers\\LoginAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:16:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Admin.cs",
+              "RelativeDocumentMoniker": "Data\\Admin.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Admin.cs",
+              "RelativeToolTip": "Data\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:26:42.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBotController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\ChatBotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatBotController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\ChatBotController.cs",
+              "RelativeToolTip": "Controllers\\ChatBotController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:14:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAkwB0BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:16:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Data\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "Data\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:43:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuccessEmailTemplate.html",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Templates\\SuccessEmailTemplate.html",
+              "RelativeDocumentMoniker": "Templates\\SuccessEmailTemplate.html",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Templates\\SuccessEmailTemplate.html",
+              "RelativeToolTip": "Templates\\SuccessEmailTemplate.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-28T06:13:42.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Data\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "Data\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:44:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FailEmailTemplate.html",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Templates\\FailEmailTemplate.html",
+              "RelativeDocumentMoniker": "Templates\\FailEmailTemplate.html",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Templates\\FailEmailTemplate.html",
+              "RelativeToolTip": "Templates\\FailEmailTemplate.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-30T06:03:27.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paymentdetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Paymentdetail.cs",
+              "RelativeDocumentMoniker": "Data\\Paymentdetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Paymentdetail.cs",
+              "RelativeToolTip": "Data\\Paymentdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:15:24.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Product.cs",
+              "RelativeToolTip": "Data\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:14:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:14:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "APIbackend.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\APIbackend.csproj",
+              "RelativeDocumentMoniker": "APIbackend.csproj",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\APIbackend.csproj",
+              "RelativeToolTip": "APIbackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T12:56:42.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChatAi.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ChatAi.cs",
+              "RelativeDocumentMoniker": "Data\\ChatAi.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\ChatAi.cs",
+              "RelativeToolTip": "Data\\ChatAi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:15:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChatAiContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\ChatAiContext.cs",
+              "RelativeDocumentMoniker": "Models\\ChatAiContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\ChatAiContext.cs",
+              "RelativeToolTip": "Models\\ChatAiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:15:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Voucher.cs",
+              "RelativeDocumentMoniker": "Data\\Voucher.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\Voucher.cs",
+              "RelativeToolTip": "Data\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:59:24.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:56:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdatePaymentsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\UpdatePaymentsDTO.cs",
+              "RelativeDocumentMoniker": "Data\\UpdatePaymentsDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Data\\UpdatePaymentsDTO.cs",
+              "RelativeToolTip": "Data\\UpdatePaymentsDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:04:32.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "APIbackend",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\APIbackend.csproj",
+              "RelativeDocumentMoniker": "APIbackend.csproj",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\APIbackend.csproj",
+              "RelativeToolTip": "APIbackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T13:56:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:02:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\AdminContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdminContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\backend\\backend\\Models\\AdminContext.cs",
+              "RelativeToolTip": "Models\\AdminContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:26:24.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

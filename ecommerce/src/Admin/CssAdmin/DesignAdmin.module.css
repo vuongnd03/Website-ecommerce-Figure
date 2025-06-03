@@ -1,0 +1,118 @@
+.designadmin nav {
+    background-color: red;
+    padding: 20px 0;
+  }
+  
+  .designadmin ul {
+    display: flex;
+    justify-content: space-around; /* Cách đều nhau */
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .designadmin li {
+    margin: 0 10px;
+  }
+  .designadmin a:hover {
+    color: yellow; /* Đổi màu chữ khi hover */
+    text-decoration: underline; /* Gạch chân */
+  }
+  
+  .designadmin li:hover {
+    background-color: #b30000; /* Màu nền khi hover */
+
+  }
+  .designadmin a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .designadmin button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  .designadmin button :hover{
+    transform: scale(1.4);
+  }
+  
+  .designadmin img {
+    width: 24px;
+    vertical-align: middle;
+  }
+
+.adminContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.userInfo {
+  background-color: #f8f9fa;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.mainContent {
+  padding: 20px;
+}
+
+.productList {
+  margin-top: 20px;
+}
+
+.productTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.productTable th,
+.productTable td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.productTable th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.productTable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.productTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+.editBtn,
+.deleteBtn {
+  padding: 6px 12px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.editBtn {
+  background-color: #4caf50;
+  color: white;
+}
+
+.deleteBtn {
+  background-color: #f44336;
+  color: white;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
